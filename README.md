@@ -10,5 +10,3 @@ A Django-based web application with user authentication, permissions, and Postgr
 - PostgreSQL database configuration
 - Customizable views and templates
 - Environment variables using `.env`
-
-## 📂 Project Structure
